@@ -11,10 +11,10 @@ retrieve pubmed abstract with Entrez programming interface
 
 #main component    
 #file demo.php => main website
-#file getweb.php => logic to find pubmed paper
+#file getweb.php => logic to find pubmed paper by using entrez programming interface
 #file simple_html_dom.php refer to http://simplehtmldom.sourceforge.net/
 #not directly relate to project file readjson.php => this part is for retrieve name of RNA from ftp://ftp.ebi.ac.uk/pub/databases/genenames/new/json/locus_types/RNA_ribosomal.json
 
 
-Entrez programming reference : http://www.ncbi.nlm.nih.gov/books/NBK25501/
-http://www.ncbi.nlm.nih.gov/books/NBK25500/
+#Entrez programming reference : http://www.ncbi.nlm.nih.gov/books/NBK25501/
+#Entrez programming reference : http://www.ncbi.nlm.nih.gov/books/NBK25500/
